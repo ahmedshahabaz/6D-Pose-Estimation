@@ -6,8 +6,8 @@
 
 # This project comprised four stages. 
 
-## First, we performed a literature review in which we found that the state-of-the-art approaches are deep learning based. 
+- First, we performed a literature review in which we found that the state-of-the-art approaches are deep learning based. 
 
-## Second, we replicated the results of the DOPE paper with the weights published by the authors. 
+- Second, we replicated the results of the DOPE paper with the weights published by the authors. 
 
-## Third, we downloaded the YCB-Video benchmark dataset published in [BOP: Benchmark for 6D Object Pose Estimation](https://bop.felk.cvut.cz/datasets/). Finally, we evaluated the performance of the DOPE model ourselves using the ADD metric proposed in [PoseCNN: A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes](https://rse-lab.cs.washington.edu/projects/posecnn/). We had to use the original object models in order to compare the ground truth versus the estimation.
+- Third, we downloaded the YCB-Video benchmark dataset published in [BOP: Benchmark for 6D Object Pose Estimation](https://bop.felk.cvut.cz/datasets/). Finally, we evaluated the performance of the DOPE model ourselves using the ADD metric proposed in [PoseCNN: A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes](https://rse-lab.cs.washington.edu/projects/posecnn/). We had to use the original object models in order to compare the ground truth versus the estimation.
