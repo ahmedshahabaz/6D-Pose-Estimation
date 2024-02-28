@@ -1,3 +1,5 @@
+# [Juan Ricardo Wilches Cortina](https://scholar.google.com/citations?user=nDL82bsAAAAJ&hl=en) is the primary author and contributor to this project.
+
 # 6D-Pose-Estimation
 
 ## In this project, we reused the code provided by the authors of [Deep Object Pose Estimation for Semantic Robotic Grasping of Household Objects](https://arxiv.org/pdf/1809.10790.pdf).
